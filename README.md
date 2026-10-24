@@ -6,8 +6,8 @@ Author: Olivia WHASSOM, student ID 20251604, group DE2, EFREI Paris
 
 Date: 24/10/2026
 
-App URL: (link to add once the app is deployed on Streamlit Community Cloud)
-Demo video: (link to add after recording)
+App URL: https://electricite-regions-efrei26.streamlit.app/
+Demo video: https://youtu.be/Tgqgg1Na6Go
 
 ## Idea of the project
 
