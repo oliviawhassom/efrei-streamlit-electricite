@@ -19,7 +19,8 @@ st.markdown(
         padding: 14px 16px; border-radius: 8px;
     }
     div[data-testid="stMetricValue"] div {
-        white-space: normal; overflow: visible; text-overflow: clip; font-size: 1.7rem;
+        white-space: normal; overflow: visible; text-overflow: clip; overflow-wrap: anywhere;
+        word-break: break-word; line-height: 1.2; font-size: 1.5rem;
     }
     h1 {color: #1F2933;}
     .subtitle {font-size: 1.1rem; color: #52606D; margin-top: -0.6rem;}
