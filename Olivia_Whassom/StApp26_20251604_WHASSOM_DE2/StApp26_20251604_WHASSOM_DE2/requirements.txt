@@ -1,0 +1,9 @@
+streamlit>=1.33,<2
+pandas>=2.0,<4
+numpy>=1.26
+plotly>=5.20,<6
+requests>=2.31
+# only needed for the analysis notebook
+matplotlib>=3.8
+seaborn>=0.13
+notebook>=7
